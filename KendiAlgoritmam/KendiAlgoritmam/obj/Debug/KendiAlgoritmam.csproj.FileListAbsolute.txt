@@ -1,0 +1,10 @@
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\bin\Debug\KendiAlgoritmam.exe.config
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\bin\Debug\KendiAlgoritmam.exe
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\bin\Debug\KendiAlgoritmam.pdb
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.csproj.AssemblyReference.cache
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.Form1.resources
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.Properties.Resources.resources
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.csproj.GenerateResource.cache
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.csproj.CoreCompileInputs.cache
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.exe
+C:\Users\excalıbur\source\repos\KendiAlgoritmam\KendiAlgoritmam\obj\Debug\KendiAlgoritmam.pdb
